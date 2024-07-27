@@ -1,2 +1,0 @@
-# StayVista
-Full Stack project
